@@ -10,8 +10,8 @@
 .icon-list li::before {
   display: block;
   flex-shrink: 0;
-  width: 1.5em;
-  height: 1.5em;
+  width: 16px;
+  height: 16px;
   margin-right: .5rem;
   content: "";
   background-image: url("../img/smiley.png");
