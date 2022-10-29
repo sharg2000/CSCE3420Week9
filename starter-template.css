@@ -10,10 +10,10 @@
 .icon-list li::before {
   display: block;
   flex-shrink: 0;
-  padding-top: 8px;
   width: 16px;
   height: 16px;
   margin-right: .5rem;
+  margin-top: .5rem;
   content: "";
   background-image: url("../img/utopia_smiley.png");
   background-repeat: no-repeat;
