@@ -14,5 +14,5 @@
   height: 1.5em;
   margin-right: .5rem;
   content: "";
-  list-style-image: url('./img/smiley.png');
+  list-style-image: url("../img/smiley.png");
 }
